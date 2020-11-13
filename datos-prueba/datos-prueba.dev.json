@@ -1,0 +1,75 @@
+[
+  {
+    "tipoDocumento": "CR",
+    "fechaEmision": "01-05-2020",
+    "hora": "",
+    "nombre": "Kevin",
+    "ruc": "1234567890112",
+    "direccion": "mena 2",
+    "telefono": "0998047440",
+    "correo": "hola@kj.com",
+    "razon": "123",
+    "numDoc": 123,
+    "numDocMod": 123,
+    "fechaEmisionMod": "01-02-2020",
+    "status": "CR",
+    "numAutorizacion": 123,
+    "habilitado": 1
+  },
+  {
+    "tipoDocumento": "CR",
+    "fechaEmision": "01-05-2020",
+    "hora": "",
+    "nombre": "Kevin",
+    "ruc": "1234567890112",
+    "direccion": "mena 2",
+    "telefono": "0998047440",
+    "correo": "hola@kj.com",
+    "razon": "123",
+    "numDoc": 123,
+    "numDocMod": 123,
+    "fechaEmisionMod": "01-02-2020",
+    "status": "CR",
+    "numAutorizacion": 123,
+    "habilitado": 1
+  },
+  {
+    "tipoDocumento": "CR",
+    "fechaEmision": "01-05-2020",
+    "hora": "",
+    "nombre": "Kevin",
+    "ruc": "1234567890112",
+    "direccion": "mena 2",
+    "telefono": "0998047440",
+    "correo": "hola@kj.com",
+    "razon": "123",
+    "numDoc": 123,
+    "numDocMod": 123,
+    "fechaEmisionMod": "01-02-2020",
+    "status": "CR",
+    "numAutorizacion": 123,
+    "habilitado": 1
+  },
+  {
+    "tipoDocumento": "CR",
+    "fechaEmision": "01-05-2020",
+    "hora": "",
+    "nombre": "Kevin",
+    "ruc": "1234567890112",
+    "direccion": "mena 2",
+    "telefono": "0998047440",
+    "correo": "hola@kj.com",
+    "razon": "123",
+    "numDoc": 123,
+    "numDocMod": 123,
+    "fechaEmisionMod": "01-02-2020",
+    "status": "CR",
+    "numAutorizacion": 123,
+    "habilitado": 1
+  }
+]
+
+
+
+
+
